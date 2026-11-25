@@ -1,0 +1,7 @@
+kit/
+output/
+transcripts.tar.gz
+wallet.json
+.makefun/credentials
+__pycache__/
+kit.tar.gz
